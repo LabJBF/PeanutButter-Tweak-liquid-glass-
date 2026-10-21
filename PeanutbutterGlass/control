@@ -1,0 +1,9 @@
+Package: com.ryvox.peanutbutterglass
+Name: PeanutbutterGlass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Liquid Glass keypad buttons for Peanutbutter
+Maintainer: Ryvox
+Author: Ryvox
+Section: Tweaks
+Depends: mobilesubstrate, com.c4ndyf1sh.peanutbutter
